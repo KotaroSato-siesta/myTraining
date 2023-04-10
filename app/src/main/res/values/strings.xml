@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">トレーニング管理</string>
+    <string-array name="training_menu">
+        <item>First Day  　胸・肩・上腕三頭筋</item>
+        <item>Second Day 　背中・上腕二頭筋・三角筋後部</item>
+        <item>Third Day  　下半身</item>
+    </string-array>
+    <string-array name="first_day">
+        <item>ベンチプレス：６〜８回×２セット</item>
+        <item>ベンチプレス：１０〜１５回×２セット</item>
+        <item>インクラインダンベルフライ：８〜１２回×３セット</item>
+        <item>チェストプレス：１０〜１４回×４セット</item>
+        <item>ショルダープレス：８〜１２回×３セット</item>
+        <item>サイドレイズ：１０〜２５回×３セット</item>
+        <item>ケーブルアップライトロウ：１０〜１５回×３セット</item>
+        <item>クローズグリップベンチプレス：８〜１２回×３セット</item>
+        <item>ロープトライセプスエクステンション：１０〜１５回×３セット</item>
+    </string-array>
+    <string-array name="second_day">
+        <item>アシストチンニング：８〜１２回×３セット</item>
+        <item>ラットプルダウン：１０〜１５回×３セット</item>
+        <item>マシンロウイング：８〜１５回×３セット</item>
+        <item>ケーブルロウイング：１０〜３０回×３セット</item>
+        <item>Vバーロウイング：８〜１２回×３セット</item>
+        <item>EZバーケーブルカール：１５〜２０回×３セット</item>
+        <item>インクラインカール：１０〜１５回×３セット</item>
+        <item>リアデルトフライ：１０〜１５回×３セット</item>
+    </string-array>
+    <string-array name="third_day">
+        <item>45度レッグプレス：１０〜１５回×３セット</item>
+        <item>シーテッドレッグプレス：１０〜１５回×３セット</item>
+        <item>レッグエクステンション：１０〜１５回×３セット</item>
+        <item>レッグカール：８〜１２回×３セット</item>
+        <item>デッドリフト：８〜１２回×３セット</item>
+    </string-array>
+</resources>
